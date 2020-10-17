@@ -1,8 +1,8 @@
-require_relative "lib/forem/client/version"
+require_relative "lib/forem/version"
 
 Gem::Specification.new do |spec|
   spec.name = "forem-client"
-  spec.version = Forem::Client::VERSION
+  spec.version = Forem::VERSION
   spec.authors = ["Andrew Mason"]
   spec.email = ["andrewmcodes@protonmail.com"]
 

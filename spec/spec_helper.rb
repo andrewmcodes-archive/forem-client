@@ -5,7 +5,7 @@ begin
 rescue LoadError
 end
 
-require "forem/client"
+require "forem"
 require "webmock/rspec"
 
 Dir["#{File.dirname(__FILE__)}/support/**/*.rb"].sort.each { |f| require f }
