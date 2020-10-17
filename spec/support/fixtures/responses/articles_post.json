@@ -1,0 +1,44 @@
+{
+  "type_of": "article",
+  "id": 490158,
+  "title": "Hello, World!",
+  "description": "Hello DEV, this is my first post",
+  "readable_publish_date": "Oct 17",
+  "slug": "hello-world-4a8d",
+  "path": "/andrewmcodes/hello-world-4a8d",
+  "url": "https://dev.to/andrewmcodes/hello-world-4a8d",
+  "comments_count": 0,
+  "public_reactions_count": 0,
+  "collection_id": 9263,
+  "published_timestamp": "2020-10-17T08:48:06Z",
+  "positive_reactions_count": 0,
+  "cover_image": null,
+  "social_image": "https://dev.to/social_previews/article/490158.png",
+  "canonical_url": "https://andrewm.codes/forem-client/articles-post",
+  "created_at": "2020-10-17T08:48:06Z",
+  "edited_at": null,
+  "crossposted_at": null,
+  "published_at": "2020-10-17T08:48:06Z",
+  "last_comment_at": "2020-10-17T08:48:06Z",
+  "tag_list": "discuss, help",
+  "tags": [
+    "discuss",
+    "help"
+  ],
+  "body_html": "\u003cp\u003eHello DEV, this is my first post\u003c/p\u003e\n\n",
+  "body_markdown": "Hello DEV, this is my first post",
+  "user": {
+    "name": "Andrew Mason",
+    "username": "andrewmcodes",
+    "twitter_username": "andrewmcodes",
+    "github_username": "andrewmcodes",
+    "website_url": "https://www.andrewm.codes",
+    "profile_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iKt6EQ8O--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/131437/77a793d4-c9e6-405e-b3ee-35cd70281a69.jpeg",
+    "profile_image_90": "https://res.cloudinary.com/practicaldev/image/fetch/s--Zwt7I12Z--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/131437/77a793d4-c9e6-405e-b3ee-35cd70281a69.jpeg"
+  },
+  "flare_tag": {
+    "name": "discuss",
+    "bg_color_hex": "#000000",
+    "text_color_hex": "#FFFFFF"
+  }
+}

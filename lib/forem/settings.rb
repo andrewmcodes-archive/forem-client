@@ -1,11 +1,7 @@
-ApiStruct::Settings.configure do |config| # :nodoc:
-  config.endpoints = {
-    forem_api: {
-      root: "https://dev.to/api",
-      headers: {
-        'api-key': ENV["FOREM_API_KEY"],
-        'Content-Type': "application/json"
-      }
-    }
-  }
+module Forem
+  class Settings
+    extend ::Dry::Configurable
+
+    setting :api_key, ENV["FOREM_API_KEY"]
+  end
 end
